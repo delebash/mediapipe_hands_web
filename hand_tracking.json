@@ -1,0 +1,13 @@
+{
+  "source": [
+    { "path": "cpu_oss_handdetect_subgraph.pbtxt" },
+    { "path": "cpu_oss_handtracking_landmark_subgraph.pbtxt" },
+    { "path": "cpu_oss_handtracking_render_subgraph.pbtxt" },
+    {
+      "path": "cpu_oss_handtrack.pbtxt",
+      "runnable": true
+    }
+  ],
+  "binaryGraph": "hand_tracking.binarypb",
+  "basePath": ""
+}

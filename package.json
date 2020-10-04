@@ -1,0 +1,12 @@
+{
+  "name": "mediapipe_hands_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "default_demo_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
